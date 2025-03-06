@@ -17,12 +17,12 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.coralinelee.code</groupId>
-            <artifactId>code-common</artifactId>
-        </dependency>
-        <dependency>
             <groupId>commons-lang</groupId>
             <artifactId>commons-lang</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
         </dependency>
     </dependencies>
 
